@@ -15,6 +15,7 @@ get the full experience of playing this game on your modern day computer, make s
 to download a retro-themed terminal emulator like Cool-Retro-Term (free) or Cathode ($5)
 
 Cool-Retro-Term: https://github.com/Swordfish90/cool-retro-term
+
 Cathode: http://www.secretgeometry.com/apps/cathode/
   
 
