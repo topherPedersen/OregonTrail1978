@@ -16,10 +16,13 @@ to download a retro-themed terminal emulator like Cool-Retro-Term (free) or Cath
 Unfortunately, CAPS-LOCK doesn't appear to work when using Cool-Retro-Term, so I suggest
 paying the $5 for Cathode. If you want to use Cool-Retro-Term, you'll want to go in
 and edit the source code so that you can enter in lowercase words without affecting
-the gameplay.
+the gameplay. And the third option is to simply use the free iTerm2 terminal and
+go to 'View' and 'Make Text Bigger' which will also give you an old school computing feel.
 
 Cool-Retro-Term: https://github.com/Swordfish90/cool-retro-term
 
 Cathode: http://www.secretgeometry.com/apps/cathode/
+
+iTerm2: https://www.iterm2.com/
   
 
