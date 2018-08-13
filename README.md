@@ -13,6 +13,10 @@ Also, you will probably want to tweak the difficulty level for hunting as is des
 in the source code comments by the original authors back in 1978. And if you want to 
 get the full experience of playing this game on your modern day computer, make sure
 to download a retro-themed terminal emulator like Cool-Retro-Term (free) or Cathode ($5).
+Unfortunately, CAPS-LOCK doesn't appear to work when using Cool-Retro-Term, so I suggest
+paying the $5 for Cathode. If you want to use Cool-Retro-Term, you'll want to go in
+and edit the source code so that you can enter in lowercase words without affecting
+the gameplay.
 
 Cool-Retro-Term: https://github.com/Swordfish90/cool-retro-term
 
