@@ -1,5 +1,5 @@
 # OregonTrail1978
-'Oregon Trail' as Printed in the May/June 1978 Edition of Creative Computing Magazine
+'Oregon Trail' as Printed in the May/June 1978 Issue of Creative Computing Magazine
 
 The source code was modified in a few areas by myself (Christopher Pedersen) in 2018
 in order to make the program compatible with the version of BASIC which I'm currently
